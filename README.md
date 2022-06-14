@@ -10,4 +10,4 @@
 * [Instagram](https://www.instagram.com/dzd07)
 * [LinkeDin](www.linkedin.com/in/piotr-sierant)
 * [Twitter](https://twitter.com/dzd07_Piotr)
-* [Gmail](piotr.sierant96@gmail.com)
+* [Gmail]() `piotr.sierant96@gmail.com`
