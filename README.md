@@ -1,7 +1,6 @@
 ### Hi there 👋 My name is Piter!😄
 ---
 
-- :mortar_board: I’m student CodersLab
 - 🌱 I’m currently learning _javascript_
 :arrow_down: Check my repositories! :stuck_out_tongue_winking_eye:
 
