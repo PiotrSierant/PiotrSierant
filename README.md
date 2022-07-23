@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Piter!😄
 ---
 
-- 🌱 I’m currently learning _javascript_
+- 🌱 I’m currently learning _javascript (react)_
 :arrow_down: Check my repositories! :stuck_out_tongue_winking_eye:
 
 :sunrise: My passions are travels, books, sports and programming.
