@@ -18,6 +18,7 @@ I started taking deeper interest in programming in 2021 while writing Python pro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" height="40" width="52" alt="github logo"  />
 </div>
 
 <h2 align="left">How do I want to develop further?</h2>
