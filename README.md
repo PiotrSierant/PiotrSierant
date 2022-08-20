@@ -16,7 +16,6 @@ I started taking deeper interest in programming in 2021 while writing Python pro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
 </div>
 
 <h2 align="left">How do I want to develop further?</h2>
@@ -28,6 +27,10 @@ I started taking deeper interest in programming in 2021 while writing Python pro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
 </div>
 
+###
+<h2 align="left">💬 My social media: </h2>
 
-💬 My social media: 
-[Facebook](https://www.facebook.com/dzd07) [Instagram](https://www.instagram.com/dzd07) [LinkeDin](www.linkedin.com/in/piotr-sierant) [Twitter](https://twitter.com/dzd07_Piotr) [Gmail]() `piotr.sierant96@gmail.com`
+[Facebook](https://www.facebook.com/dzd07) | [Instagram](https://www.instagram.com/dzd07) | [LinkedIn](www.linkedin.com/in/piotr-sierant) | [Twitter](https://twitter.com/dzd07_Piotr) | [Gmail]() `piotr.sierant96@gmail.com`
+
+
+
