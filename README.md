@@ -6,7 +6,7 @@ I started taking deeper interest in programming in 2021 while writing Python pro
 
 ![Metrics](/metrics.plugin.languages.indepth.svg)
 
-<h2 align="left">I code with</h2>
+<h2 align="left"></h2>
 
 ###
 
