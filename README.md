@@ -5,9 +5,12 @@ My interest in programming began very early in my life - when I was still in tec
 I started taking deeper interest in programming in 2021 while writing Python programs. However, it took me no time to embark on a journey to deepen my knowledge of web applications.
 
 <div align="center">
+  
 ![Metrics](/metrics.plugin.languages.indepth.svg)
+
 </div>
 
+<h2></h2>
 ###
 
 <div align="center">
