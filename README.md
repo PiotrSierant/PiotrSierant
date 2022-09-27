@@ -1,8 +1,10 @@
 ### Hi there 👋 My name is Piter!😄
 ---
 
-My interest in programming began very early in my life - when I was still in technical school. In class we would create simple softwares in C ++ and Java as well as websites.
-I started taking deeper interest in programming in 2021 while writing Python programs. However, it took me no time to embark on a journey to deepen my knowledge of web applications.
+✔ Frontend Developer (Zaawansowany HTML i CSS, Sass, RWD, JavaScript, ECMAScript 6, ReactJS, aplikacje REST, Git). Z około rocznym doświadczeniem w tworzeniu stron internetowych i aplikacji webowych. Biegle posługuję się JavaScript z wykorzystaniem React'a, HTML, CSS a także SASS (CSS Preprocessor). Praca z Gitem jest dla mnie codziennością. Dotychczasową wiedzę rozbudowuję o TypeScript i GraphQL. Aktualnie zajmuję się tworzeniem projektów w celach edukacyjnych. Posiadam zaplecze graficzne co jest zaletą w pracy przy projekcie oraz komunikacją z grafikami. W pracy wykazuję się komunikatywnością, współpracą i odpowiedzialnością. 
+➟ Skontaktuj się ze mną telefonicznie: 881-323-572, 
+➟ Mailowo: piotr.sierant96@gmail.com 
+➟ LinkedIn.
 
 <div align="center">
   
@@ -28,19 +30,20 @@ I started taking deeper interest in programming in 2021 while writing Python pro
 
 </div>
 
-<h2 align="left">How do I want to develop further?</h2>
+<h2 align="left">Dalszy rozwój</h2>
 
 ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain-wordmark.svg" height="40" width="52" alt="grapghql logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="52" alt="nodejs logo"  />
 </div>
 
 ###
-<h2 align="left">💬 My social media: </h2>
+<h2 align="left">💬 Social media: </h2>
 
-[Facebook](https://www.facebook.com/dzd07) | [Instagram](https://www.instagram.com/dzd07) | [LinkedIn](www.linkedin.com/in/piotr-sierant) | [Twitter](https://twitter.com/dzd07_Piotr) | [Gmail]() `piotr.sierant96@gmail.com`
+[Facebook](https://www.facebook.com/dzd07) | [Instagram](https://www.instagram.com/dzd07) | [LinkedIn](www.linkedin.com/in/piotr-sierant) | [Twitter](https://twitter.com/dzd07_Piotr) | [Website](https://piotrsierant.github.io/portfolioWeb/) [Gmail]() `piotr.sierant96@gmail.com`
 
 
 
