@@ -3,11 +3,11 @@
 
 ✔ Frontend Developer (Zaawansowany HTML i CSS, Sass, RWD, JavaScript, ECMAScript 6, ReactJS, aplikacje REST, Git). Z około rocznym doświadczeniem w tworzeniu stron internetowych i aplikacji webowych. Biegle posługuję się JavaScript z wykorzystaniem React'a, HTML, CSS a także SASS (CSS Preprocessor). Praca z Gitem jest dla mnie codziennością. Dotychczasową wiedzę rozbudowuję o TypeScript i GraphQL. Aktualnie zajmuję się tworzeniem projektów w celach edukacyjnych. Posiadam zaplecze graficzne co jest zaletą w pracy przy projekcie oraz komunikacją z grafikami. W pracy wykazuję się komunikatywnością, współpracą i odpowiedzialnością. 
 
-➟ Skontaktuj się ze mną telefonicznie: 881-323-572, 
+➟ Skontaktuj się ze mną telefonicznie: 881-323-572
 
 ➟ Mailowo: piotr.sierant96@gmail.com 
 
-➟ LinkedIn.
+➟ [LinkedIn](www.linkedin.com/in/piotr-sierant)
 
 <div align="center">
   
@@ -46,7 +46,7 @@
 ###
 <h2 align="left">💬 Social media: </h2>
 
-[Facebook](https://www.facebook.com/dzd07) | [Instagram](https://www.instagram.com/dzd07) | [LinkedIn](www.linkedin.com/in/piotr-sierant) | [Twitter](https://twitter.com/dzd07_Piotr) | [Website](https://piotrsierant.github.io/portfolioWeb/) [Gmail]() `piotr.sierant96@gmail.com`
+[Facebook](https://www.facebook.com/dzd07) | [Instagram](https://www.instagram.com/dzd07) | [LinkedIn](www.linkedin.com/in/piotr-sierant) | [Twitter](https://twitter.com/dzd07_Piotr) | [Website](https://piotrsierant.github.io/portfolioWeb/) | [Gmail]() `piotr.sierant96@gmail.com`
 
 
 
