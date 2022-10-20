@@ -3,8 +3,6 @@
 
 ✔ Frontend Developer (Zaawansowany HTML i CSS, Sass, RWD, JavaScript, ECMAScript 6, ReactJS, aplikacje REST, Git, Redux, React Router). Z około rocznym doświadczeniem w tworzeniu stron internetowych i aplikacji webowych. Biegle posługuję się JavaScript z wykorzystaniem React'a, HTML, CSS a także SASS (CSS Preprocessor). Praca z Gitem jest dla mnie codziennością. Dotychczasową wiedzę rozbudowuję o TypeScript i GraphQL. Aktualnie zajmuję się tworzeniem projektów w celach edukacyjnych. Posiadam zaplecze graficzne co jest zaletą w pracy przy projekcie oraz komunikacją z grafikami. W pracy wykazuję się komunikatywnością, współpracą i odpowiedzialnością. 
 
-➟ Skontaktuj się ze mną telefonicznie: 881-323-572
-
 ➟ Mailowo: piotr.sierant96@gmail.com 
 
 ➟ [LinkedIn](www.linkedin.com/in/piotr-sierant)
