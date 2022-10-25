@@ -1,52 +1,58 @@
-### Hi there 👋 My name is Piter!😄
----
+### Cześć! Jestem Piotr :) 
 
-✔ Frontend Developer (Zaawansowany HTML i CSS, Sass, RWD, JavaScript, ECMAScript 6, ReactJS, aplikacje REST, Git, Redux, React Router). Z około rocznym doświadczeniem w tworzeniu stron internetowych i aplikacji webowych. Biegle posługuję się JavaScript z wykorzystaniem React'a, HTML, CSS a także SASS (CSS Preprocessor). Praca z Gitem jest dla mnie codziennością. Dotychczasową wiedzę rozbudowuję o TypeScript i GraphQL. Aktualnie zajmuję się tworzeniem projektów w celach edukacyjnych. Posiadam zaplecze graficzne co jest zaletą w pracy przy projekcie oraz komunikacją z grafikami. W pracy wykazuję się komunikatywnością, współpracą i odpowiedzialnością. 
-
-➟ Mailowo: piotr.sierant96@gmail.com 
-
-➟ [LinkedIn](www.linkedin.com/in/piotr-sierant)
-
-<div align="center">
-  
-![Metrics](/metrics.plugin.languages.indepth.svg)
-
-</div>
+✔ Pracuję jako Frontend Developer. [Zapraszam do mojego portfolio.](https://piotrsierant.github.io/portfolioWeb/)
 
 <h2></h2>
 
-###
+#### Kontakt:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dzd07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dzd07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piotr-sierant/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/dzd07_Piotr) 
 
-<div align="center">
+<h2></h2>
+
+#### Technologie, języki, frameworki:
+
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://raw.githubusercontent.com/PiotrSierant/PiotrSierant/3ffe854f2ed5505e9dd800f40c7c342842fe40b9/icons/react-router-svgrepo-com.svg" height="40" width="52" alt="react-router logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/PiotrSierant/PiotrSierant/3ffe854f2ed5505e9dd800f40c7c342842fe40b9/icons/vercel-svgrepo-com.svg" height="40" width="52" alt="react-router logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" alt="webpack logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" width="52" alt="babel logo"  />
-</div>
+ </div> 
 
-<h2 align="left">Dalszy rozwój</h2>
+#### Dalszy rozwój:
 
-###
-
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vue logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height="40" width="52" alt="graphql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo" />
+</div>
+
+<h2></h2>
+
+#### Statystyki:
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=PiotrSierant&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PiotrSierant&theme=react&hide_border=false)
+
+![Metrics](/metrics.plugin.languages.indepth.svg)
+
 </div>
 
 
-###
-<h2 align="left">💬 Social media: </h2>
+<div align="right">
 
-[Facebook](https://www.facebook.com/dzd07) | [Instagram](https://www.instagram.com/dzd07) | [LinkedIn](www.linkedin.com/in/piotr-sierant) | [Twitter](https://twitter.com/dzd07_Piotr) | [Website](https://piotrsierant.github.io/portfolioWeb/) | [Gmail]() `piotr.sierant96@gmail.com`
+[![](https://visitcount.itsvg.in/api?id=PiotrSierant&icon=2&color=12)](https://visitcount.itsvg.in)
 
-
-
+</div>
