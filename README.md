@@ -1,6 +1,6 @@
 ### Cześć! Jestem Piotr :) 
 
-✔ Pracuję jako Frontend Developer w firmie Multiprojekt.
+✔ Pracuję jako Frontend Developer w firmie MultiProjekt.
 
 ✔ Interesuje mnie więcej niż frontend.
 
