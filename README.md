@@ -1,6 +1,8 @@
 ### Cześć! Jestem Piotr :) 
 
-✔ Pracuję jako Frontend Developer. [Zapraszam do mojego portfolio.](https://piotrsierant.github.io/portfolioWeb/)
+✔ Pracuję jako Frontend Developer w firmie Multiprojekt.
+✔ Interesuje mnie więcej niż frontend.
+✔ Zapraszam do moich repozytorium gdzie możesz dowiedzieć się nieco więcej.<!-- [Zapraszam do mojego portfolio.](https://piotrsierant.github.io/portfolioWeb/) -->
 
 <h2></h2>
 
