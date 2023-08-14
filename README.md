@@ -1,10 +1,11 @@
 ### Cześć! Jestem Piotr :) 
+✔ z 1,5rocznym doświadczeniem jako Frontend Developer związany z firmą MultiProjekt — Przemysł 4.0. 
 
-✔ Pracuję jako Frontend Developer w firmie MultiProjekt.
+✔ Moja pasja do tworzenia aplikacji webowych jest nieustannie napędzana przez liczne kursy technologiczne, które stale poszerzają moją wiedzę. Choć moje umiejętności skupiają się głównie na frontendzie, moje zainteresowania w świecie programowania sięgają również obszaru backendu, co sprawia, że jestem wszechstronnym programistą.
 
-✔ Interesuje mnie więcej niż frontend.
+✔ Z przyjemnością dzielę się swoją wiedzą jako współtwórca newslettera dla programistów webowych, co pozwala mi nie tylko utrwalać zdobytą wiedzę, ale również pozostawać na bieżąco z dynamicznie zmieniającym się krajobrazem technologicznym. 
 
-✔ Zapraszam do moich repozytorium gdzie możesz dowiedzieć się nieco więcej.<!-- [Zapraszam do mojego portfolio.](https://piotrsierant.github.io/portfolioWeb/) -->
+✔ Moje doświadczenie zawodowe zostało wzbogacone poprzez udział w różnorodnych projektach oraz ukończenie licznych kursów, zarówno związanych z technologiami frontendowymi, jak i backendowymi. Dzięki temu nabyłem praktyczne umiejętności oraz głębsze zrozumienie kompleksowości procesu tworzenia oprogramowania.
 
 <h2></h2>
 
