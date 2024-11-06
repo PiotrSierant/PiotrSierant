@@ -1,6 +1,6 @@
 ### Cześć! Jestem Piotr :) 
 
-Moją pracę znajdziecie również na drugim profilu [![GitHub](https://github.com/PiotrSierantWSEI)]
+Moją pracę znajdziecie również na drugim profilu [GitHub](https://github.com/PiotrSierantWSEI)
 
 ✔ z 2-letnim doświadczeniem jako Frontend Developer związany z firmą MultiProjekt — Przemysł 4.0. 
 
