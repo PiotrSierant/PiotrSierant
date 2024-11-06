@@ -1,4 +1,7 @@
 ### Cześć! Jestem Piotr :) 
+
+Moją pracę znajdziecie również na drugim profilu [![GitHub](https://github.com/PiotrSierantWSEI)]
+
 ✔ z 2-letnim doświadczeniem jako Frontend Developer związany z firmą MultiProjekt — Przemysł 4.0. 
 
 ✔ Moja pasja do tworzenia aplikacji webowych jest nieustannie napędzana przez liczne kursy technologiczne, które stale poszerzają moją wiedzę. Choć moje umiejętności skupiają się głównie na frontendzie, moje zainteresowania w świecie programowania sięgają również obszaru backendu, co sprawia, że jestem wszechstronnym programistą.
